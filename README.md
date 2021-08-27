@@ -1,1 +1,1 @@
-# My Localization Files for BF2
+Localization Files for BF2 by TwitchPlaysBF2
