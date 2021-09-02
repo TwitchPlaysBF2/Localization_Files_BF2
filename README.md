@@ -6,3 +6,6 @@ As seen on:
  * [twitter.com/TwitchPlaysBF2](https://twitter.com/TwitchPlaysBF2)
  * [discord.link/TwitchPlaysBF2](https://discord.link/TwitchPlaysBF2)
  * [facebook.com/TwitchPlays.BFtwo](https://facebook.com/twitchplays.bftwo) <-- add me mate 😊
+
+# Go here:
+* https://TwitchPlaysBF2.github.io/Localization_Files_BF2
