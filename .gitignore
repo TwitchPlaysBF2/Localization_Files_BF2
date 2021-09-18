@@ -1,5 +1,5 @@
-/English_autorun.utxt
-/English_Falcon.utxt
-/english_mappack_ht.utxt
-/english_mappacks.utxt
-/English_Patch.utxt
+# Ignore everything
+*
+
+# Except these files:
+!English/English.utxt
