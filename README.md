@@ -1,10 +1,14 @@
 # Localization Files for Battlefield2 by TwitchPlaysBF2
 
-Download latest version (stable release): 
+Download the latest version (stable release): 
 * https://github.com/TwitchPlaysBF2/Localization_Files_BF2/releases/latest/download/English.txt
 
-View work-in-progress version (could have problems): 
+View the work-in-progress version (could have problems): 
 * https://raw.githubusercontent.com/TwitchPlaysBF2/Localization_Files_BF2/main/English/English.utxt
+
+# Help
+
+If you find issues or need help, come in my discord or submit an issue on GitHub.
 
 # Connect with TwitchPlaysBF2:
 
