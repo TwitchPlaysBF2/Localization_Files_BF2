@@ -19,4 +19,4 @@ If you find issues or need help, come in my discord or submit an issue on GitHub
  * [facebook.com/TwitchPlays.BFtwo](https://facebook.com/twitchplays.bftwo) <-- add me mate 😊
 
 # Website Version here:
-* https://TwitchPlaysBF2.github.io/Localization_Files_BF2
+* https://TwitchPlaysBF2.github.io
